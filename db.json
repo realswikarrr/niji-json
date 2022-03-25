@@ -1,0 +1,120 @@
+{
+  "buyContent": [
+    {
+      "id": "1",
+      "title": "Koonya Pavilion",
+      "description": "Baluwatar, Kathmandu, Nepal",
+      "image": "https://res.cloudinary.com/dnfr5p8jc/image/upload/v1648206134/first_prop_pzjgnd.png",
+      "price": "Rs. 1,000,000"
+    },
+    {
+      "id": "2",
+      "title": "Koonya Pavilion",
+      "description": "Baluwatar, Kathmandu, Nepal",
+      "image": "https://res.cloudinary.com/dnfr5p8jc/image/upload/v1648211992/second_prop_pumamw.png",
+      "price": "Rs. 1,000,000"
+    },
+    {
+      "id": "3",
+      "title": "Koonya Pavilion",
+      "description": "Baluwatar, Kathmandu, Nepal",
+      "image": "https://res.cloudinary.com/dnfr5p8jc/image/upload/v1648212051/third_prop_rl6jsx.png",
+      "price": "Rs. 1,000,000"
+    },
+    {
+      "id": "4",
+      "title": "Koonya Pavilion",
+      "description": "Baluwatar, Kathmandu, Nepal",
+      "image": "https://res.cloudinary.com/dnfr5p8jc/image/upload/v1648212085/4_prop_w060eb.png",
+      "price": "Rs. 1,000,000"
+    },
+    {
+      "id": "5",
+      "title": "Koonya Pavilion",
+      "description": "Baluwatar, Kathmandu, Nepal",
+      "image": "https://res.cloudinary.com/dnfr5p8jc/image/upload/v1648212073/5_prop_jqozf9.png",
+      "price": "Rs. 1,000,000"
+    },
+    {
+      "id": "6",
+      "title": "Koonya Pavilion",
+      "description": "Baluwatar, Kathmandu, Nepal",
+      "image": "https://res.cloudinary.com/dnfr5p8jc/image/upload/v1648212075/6_prop_nqtlei.png",
+      "price": "Rs. 1,000,000"
+    },
+    {
+      "id": "7",
+      "title": "Koonya Pavilion",
+      "description": "Baluwatar, Kathmandu, Nepal",
+      "image": "https://res.cloudinary.com/dnfr5p8jc/image/upload/v1648212075/7_prop_qw3doq.png",
+      "price": "Rs. 1,000,000"
+    },
+    {
+      "id": "8",
+      "title": "Koonya Pavilion",
+      "description": "Baluwatar, Kathmandu, Nepal",
+      "image": "https://res.cloudinary.com/dnfr5p8jc/image/upload/v1648212077/8_prop_izcljk.png",
+      "price": "Rs. 1,000,000"
+    },
+    {
+      "id": "9",
+      "title": "Koonya Pavilion",
+      "description": "Baluwatar, Kathmandu, Nepal",
+      "image": "https://res.cloudinary.com/dnfr5p8jc/image/upload/v1648212076/9_prop_gizllw.png",
+      "price": "Rs. 1,000,000"
+    },
+    {
+      "id": "10",
+      "title": "Koonya Pavilion",
+      "description": "Baluwatar, Kathmandu, Nepal",
+      "image": "https://res.cloudinary.com/dnfr5p8jc/image/upload/v1648212075/10_prop_b1snwb.png",
+      "price": "Rs. 1,000,000"
+    },
+    {
+      "id": "11",
+      "title": "Koonya Pavilion",
+      "description": "Baluwatar, Kathmandu, Nepal",
+      "image": "https://res.cloudinary.com/dnfr5p8jc/image/upload/v1648212076/11_prop_dprnro.png",
+      "price": "Rs. 1,000,000"
+    },
+    {
+      "id": "12",
+      "title": "Koonya Pavilion",
+      "description": "Baluwatar, Kathmandu, Nepal",
+      "image": "https://res.cloudinary.com/dnfr5p8jc/image/upload/v1648212077/12_prop_h3vmax.png",
+      "price": "Rs. 1,000,000"
+    }
+  ],
+  "rentContent": [
+    {
+      "id": "1",
+      "title": "Salon de Kathmandu (Room - 1)",
+      "description": "Baluwatar, Kathmandu, Nepal",
+      "image": "https://res.cloudinary.com/dnfr5p8jc/image/upload/v1648206317/roomrentinfo_1_aiouc6.png"
+    },
+    {
+      "id": "2",
+      "title": "Salon de Kathmandu (Room - 2)",
+      "description": "Baluwatar, Kathmandu, Nepal",
+      "image": "https://res.cloudinary.com/dnfr5p8jc/image/upload/v1648210140/house_image_uxa7qx.png"
+    },
+    {
+      "id": "3",
+      "title": "Salon de Kathmandu (Room - 3)",
+      "description": "Baluwatar, Kathmandu, Nepal",
+      "image": "https://res.cloudinary.com/dnfr5p8jc/image/upload/v1648210201/rent2_ccryxg.png"
+    },
+    {
+      "id": "4",
+      "title": "Salon de Kathmandu (Room - 4)",
+      "description": "Baluwatar, Kathmandu, Nepal",
+      "image": "https://res.cloudinary.com/dnfr5p8jc/image/upload/v1648210232/rent3_nuaw77.png"
+    },
+    {
+      "id": "5",
+      "title": "Salon de Kathmandu (Room - 5)",
+      "description": "Baluwatar, Kathmandu, Nepal",
+      "image": "https://res.cloudinary.com/dnfr5p8jc/image/upload/v1648210286/rent5_rvk0yi.png"
+    }
+  ]
+}

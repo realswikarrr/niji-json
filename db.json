@@ -165,7 +165,10 @@
       "image": "https://res.cloudinary.com/dnfr5p8jc/image/upload/v1648206317/roomrentinfo_1_aiouc6.png",
       "comments": "Would love to visit the house this Saturday, can I ?",
       "user": "Hari",
-      "reply": "Sorry, we are closed on Saturday"
+      "reply": "Sorry, we are closed on Saturday",
+      "beds": "8",
+      "showers": "9",
+      "parking": "7,505"
     },
     {
       "id": "2",
@@ -174,7 +177,10 @@
       "image": "https://res.cloudinary.com/dnfr5p8jc/image/upload/v1648210140/house_image_uxa7qx.png",
       "comments": "Would love to visit the house this Saturday, can I ?",
       "user": "Sita",
-      "reply": "Sorry, we are closed on Saturday"
+      "reply": "Sorry, we are closed on Saturday",
+      "beds": "5",
+      "showers": "6",
+      "parking": "3,505"
     },
     {
       "id": "3",
@@ -183,7 +189,10 @@
       "image": "https://res.cloudinary.com/dnfr5p8jc/image/upload/v1648210201/rent2_ccryxg.png",
       "comments": "Would love to visit the house this Saturday, can I ?",
       "user": "Ram",
-      "reply": "Sorry, we are closed on Saturday"
+      "reply": "Sorry, we are closed on Saturday",
+      "beds": "1",
+      "showers": "8",
+      "parking": "5,505"
     },
     {
       "id": "4",
@@ -192,7 +201,10 @@
       "image": "https://res.cloudinary.com/dnfr5p8jc/image/upload/v1648210232/rent3_nuaw77.png",
       "comments": "Would love to visit the house this Saturday, can I ?",
       "user": "David",
-      "reply": "Sorry, we are closed on Saturday"
+      "reply": "Sorry, we are closed on Saturday",
+      "beds": "6",
+      "showers": "2",
+      "parking": "2,505"
     },
     {
       "id": "5",
@@ -201,7 +213,10 @@
       "image": "https://res.cloudinary.com/dnfr5p8jc/image/upload/v1648210286/rent5_rvk0yi.png",
       "comments": "Would love to visit the house this Saturday, can I ?",
       "user": "Maya",
-      "reply": "Sorry, we are closed on Saturday"
+      "reply": "Sorry, we are closed on Saturday",
+      "beds": "3",
+      "showers": "4",
+      "parking": "1,505"
     }
   ]
 }

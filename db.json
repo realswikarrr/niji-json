@@ -160,7 +160,7 @@
   "rentContent": [
     {
       "id": "1",
-      "title": "Salon de Kathmandu (Room - 1)",
+      "title": "Kathmandu (Room - 1)",
       "description": "Baluwatar, Kathmandu, Nepal",
       "image": "https://res.cloudinary.com/dnfr5p8jc/image/upload/v1648206317/roomrentinfo_1_aiouc6.png",
       "comments": "Would love to visit the house this Saturday, can I ?",
@@ -169,7 +169,7 @@
     },
     {
       "id": "2",
-      "title": "Salon de Nepalgunj (Room - 2)",
+      "title": "Nepalgunj (Room - 2)",
       "description": "Nepalgunj, Nepalgunj, Nepal",
       "image": "https://res.cloudinary.com/dnfr5p8jc/image/upload/v1648210140/house_image_uxa7qx.png",
       "comments": "Would love to visit the house this Saturday, can I ?",
@@ -178,7 +178,7 @@
     },
     {
       "id": "3",
-      "title": "Salon de Kalimati (Room - 3)",
+      "title": "Kalimati (Room - 3)",
       "description": "Kalimati, Kathmandu, Nepal",
       "image": "https://res.cloudinary.com/dnfr5p8jc/image/upload/v1648210201/rent2_ccryxg.png",
       "comments": "Would love to visit the house this Saturday, can I ?",
@@ -187,7 +187,7 @@
     },
     {
       "id": "4",
-      "title": "Salon de Baluwatar (Room - 4)",
+      "title": "Baluwatar (Room - 4)",
       "description": "Baluwatar, Kathmandu, Nepal",
       "image": "https://res.cloudinary.com/dnfr5p8jc/image/upload/v1648210232/rent3_nuaw77.png",
       "comments": "Would love to visit the house this Saturday, can I ?",
@@ -196,7 +196,7 @@
     },
     {
       "id": "5",
-      "title": "Salon de Durbarmarg (Room - 5)",
+      "title": "Durbarmarg (Room - 5)",
       "description": "Durbarmarg, Kathmandu, Nepal",
       "image": "https://res.cloudinary.com/dnfr5p8jc/image/upload/v1648210286/rent5_rvk0yi.png",
       "comments": "Would love to visit the house this Saturday, can I ?",

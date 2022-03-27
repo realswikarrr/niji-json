@@ -8,7 +8,10 @@
       "price": "Rs. 1,000,000",
       "comments": "Would love to visit the house this Saturday, can I ?",
       "user": "Raju",
-      "reply": "Sorry, we are closed on Saturday"
+      "reply": "Sorry, we are closed on Saturday",
+      "beds": "3",
+      "showers": "4",
+      "parking": "1,505"
     },
     {
       "id": "2",
@@ -18,7 +21,10 @@
       "price": "Rs. 1,000,000",
       "comments": "Would love to visit the house this Saturday, can I ?",
       "user": "Raju",
-      "reply": "Sorry, we are closed on Saturday"
+      "reply": "Sorry, we are closed on Saturday",
+      "beds": "3",
+      "showers": "4",
+      "parking": "1,505"
     },
     {
       "id": "3",
@@ -28,7 +34,10 @@
       "price": "Rs. 1,000,000",
       "comments": "Would love to visit the house this Saturday, can I ?",
       "user": "Raju",
-      "reply": "Sorry, we are closed on Saturday"
+      "reply": "Sorry, we are closed on Saturday",
+      "beds": "3",
+      "showers": "4",
+      "parking": "1,505"
     },
     {
       "id": "4",
@@ -38,7 +47,10 @@
       "price": "Rs. 1,000,000",
       "comments": "Would love to visit the house this Saturday, can I ?",
       "user": "Raju",
-      "reply": "Sorry, we are closed on Saturday"
+      "reply": "Sorry, we are closed on Saturday",
+      "beds": "3",
+      "showers": "4",
+      "parking": "1,505"
     },
     {
       "id": "5",
@@ -48,7 +60,10 @@
       "price": "Rs. 1,000,000",
       "comments": "Would love to visit the house this Saturday, can I ?",
       "user": "Raju",
-      "reply": "Sorry, we are closed on Saturday"
+      "reply": "Sorry, we are closed on Saturday",
+      "beds": "3",
+      "showers": "4",
+      "parking": "1,505"
     },
     {
       "id": "6",
@@ -58,7 +73,10 @@
       "price": "Rs. 1,000,000",
       "comments": "Would love to visit the house this Saturday, can I ?",
       "user": "Raju",
-      "reply": "Sorry, we are closed on Saturday"
+      "reply": "Sorry, we are closed on Saturday",
+      "beds": "3",
+      "showers": "4",
+      "parking": "1,505"
     },
     {
       "id": "7",
@@ -68,7 +86,10 @@
       "price": "Rs. 1,000,000",
       "comments": "Would love to visit the house this Saturday, can I ?",
       "user": "Raju",
-      "reply": "Sorry, we are closed on Saturday"
+      "reply": "Sorry, we are closed on Saturday",
+      "beds": "3",
+      "showers": "4",
+      "parking": "1,505"
     },
     {
       "id": "8",
@@ -78,7 +99,10 @@
       "price": "Rs. 1,000,000",
       "comments": "Would love to visit the house this Saturday, can I ?",
       "user": "Raju",
-      "reply": "Sorry, we are closed on Saturday"
+      "reply": "Sorry, we are closed on Saturday",
+      "beds": "3",
+      "showers": "4",
+      "parking": "1,505"
     },
     {
       "id": "9",
@@ -88,7 +112,10 @@
       "price": "Rs. 1,000,000",
       "comments": "Would love to visit the house this Saturday, can I ?",
       "user": "Raju",
-      "reply": "Sorry, we are closed on Saturday"
+      "reply": "Sorry, we are closed on Saturday",
+      "beds": "3",
+      "showers": "4",
+      "parking": "1,505"
     },
     {
       "id": "10",
@@ -98,7 +125,10 @@
       "price": "Rs. 1,000,000",
       "comments": "Would love to visit the house this Saturday, can I ?",
       "user": "Raju",
-      "reply": "Sorry, we are closed on Saturday"
+      "reply": "Sorry, we are closed on Saturday",
+      "beds": "3",
+      "showers": "4",
+      "parking": "1,505"
     },
     {
       "id": "11",
@@ -108,7 +138,10 @@
       "price": "Rs. 1,000,000",
       "comments": "Would love to visit the house this Saturday, can I ?",
       "user": "Raju",
-      "reply": "Sorry, we are closed on Saturday"
+      "reply": "Sorry, we are closed on Saturday",
+      "beds": "3",
+      "showers": "4",
+      "parking": "1,505"
     },
     {
       "id": "12",
@@ -118,7 +151,10 @@
       "price": "Rs. 1,000,000",
       "comments": "Would love to visit the house this Saturday, can I ?",
       "user": "Raju",
-      "reply": "Sorry, we are closed on Saturday"
+      "reply": "Sorry, we are closed on Saturday",
+      "beds": "3",
+      "showers": "4",
+      "parking": "1,505"
     }
   ],
   "rentContent": [

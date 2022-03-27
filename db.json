@@ -6,9 +6,28 @@
       "description": "Baluwatar, Kathmandu, Nepal",
       "image": "https://res.cloudinary.com/dnfr5p8jc/image/upload/v1648206134/first_prop_pzjgnd.png",
       "price": "Rs. 1,000,000",
-      "comments": "Would love to visit the house this Saturday, can I ?",
-      "user": "Raju",
-      "reply": "Sorry, we are closed on Saturday"
+      "comments": [
+        {
+          "comment": "Would love to visit the house this Saturday, can I ?",
+          "user": "Raju",
+          "reply": "Sorry, we are closed on Saturday"
+        },
+        {
+          "comment": "Would love to visit the house this Saturday, can I ?",
+          "user": "Raju",
+          "reply": "Sorry, we are closed on Saturday"
+        },
+        {
+          "comment": "Would love to visit the house this Saturday, can I ?",
+          "user": "Raju",
+          "reply": "Sorry, we are closed on Saturday"
+        },
+        {
+          "comment": "Would love to visit the house this Saturday, can I ?",
+          "user": "Raju",
+          "reply": "Sorry, we are closed on Saturday"
+        }
+      ]
     },
     {
       "id": "2",
@@ -16,9 +35,28 @@
       "description": "Baluwatar, Kathmandu, Nepal",
       "image": "https://res.cloudinary.com/dnfr5p8jc/image/upload/v1648211992/second_prop_pumamw.png",
       "price": "Rs. 1,000,000",
-      "comments": "Would love to visit the house this Saturday, can I ?",
-      "user": "Raju",
-      "reply": "Sorry, we are closed on Saturday"
+      "comments": [
+        {
+          "comment": "Would love to visit the house this Saturday, can I ?",
+          "user": "Raju",
+          "reply": "Sorry, we are closed on Saturday"
+        },
+        {
+          "comment": "Would love to visit the house this Saturday, can I ?",
+          "user": "Raju",
+          "reply": "Sorry, we are closed on Saturday"
+        },
+        {
+          "comment": "Would love to visit the house this Saturday, can I ?",
+          "user": "Raju",
+          "reply": "Sorry, we are closed on Saturday"
+        },
+        {
+          "comment": "Would love to visit the house this Saturday, can I ?",
+          "user": "Raju",
+          "reply": "Sorry, we are closed on Saturday"
+        }
+      ]
     },
     {
       "id": "3",
@@ -26,9 +64,28 @@
       "description": "Baluwatar, Kathmandu, Nepal",
       "image": "https://res.cloudinary.com/dnfr5p8jc/image/upload/v1648212051/third_prop_rl6jsx.png",
       "price": "Rs. 1,000,000",
-      "comments": "Would love to visit the house this Saturday, can I ?",
-      "user": "Raju",
-      "reply": "Sorry, we are closed on Saturday"
+      "comments": [
+        {
+          "comment": "Would love to visit the house this Saturday, can I ?",
+          "user": "Raju",
+          "reply": "Sorry, we are closed on Saturday"
+        },
+        {
+          "comment": "Would love to visit the house this Saturday, can I ?",
+          "user": "Raju",
+          "reply": "Sorry, we are closed on Saturday"
+        },
+        {
+          "comment": "Would love to visit the house this Saturday, can I ?",
+          "user": "Raju",
+          "reply": "Sorry, we are closed on Saturday"
+        },
+        {
+          "comment": "Would love to visit the house this Saturday, can I ?",
+          "user": "Raju",
+          "reply": "Sorry, we are closed on Saturday"
+        }
+      ]
     },
     {
       "id": "4",
@@ -36,9 +93,28 @@
       "description": "Baluwatar, Kathmandu, Nepal",
       "image": "https://res.cloudinary.com/dnfr5p8jc/image/upload/v1648212085/4_prop_w060eb.png",
       "price": "Rs. 1,000,000",
-      "comments": "Would love to visit the house this Saturday, can I ?",
-      "user": "Raju",
-      "reply": "Sorry, we are closed on Saturday"
+      "comments": [
+        {
+          "comment": "Would love to visit the house this Saturday, can I ?",
+          "user": "Raju",
+          "reply": "Sorry, we are closed on Saturday"
+        },
+        {
+          "comment": "Would love to visit the house this Saturday, can I ?",
+          "user": "Raju",
+          "reply": "Sorry, we are closed on Saturday"
+        },
+        {
+          "comment": "Would love to visit the house this Saturday, can I ?",
+          "user": "Raju",
+          "reply": "Sorry, we are closed on Saturday"
+        },
+        {
+          "comment": "Would love to visit the house this Saturday, can I ?",
+          "user": "Raju",
+          "reply": "Sorry, we are closed on Saturday"
+        }
+      ]
     },
     {
       "id": "5",
@@ -46,9 +122,28 @@
       "description": "Baluwatar, Kathmandu, Nepal",
       "image": "https://res.cloudinary.com/dnfr5p8jc/image/upload/v1648212073/5_prop_jqozf9.png",
       "price": "Rs. 1,000,000",
-      "comments": "Would love to visit the house this Saturday, can I ?",
-      "user": "Raju",
-      "reply": "Sorry, we are closed on Saturday"
+      "comments": [
+        {
+          "comment": "Would love to visit the house this Saturday, can I ?",
+          "user": "Raju",
+          "reply": "Sorry, we are closed on Saturday"
+        },
+        {
+          "comment": "Would love to visit the house this Saturday, can I ?",
+          "user": "Raju",
+          "reply": "Sorry, we are closed on Saturday"
+        },
+        {
+          "comment": "Would love to visit the house this Saturday, can I ?",
+          "user": "Raju",
+          "reply": "Sorry, we are closed on Saturday"
+        },
+        {
+          "comment": "Would love to visit the house this Saturday, can I ?",
+          "user": "Raju",
+          "reply": "Sorry, we are closed on Saturday"
+        }
+      ]
     },
     {
       "id": "6",
@@ -56,9 +151,28 @@
       "description": "Baluwatar, Kathmandu, Nepal",
       "image": "https://res.cloudinary.com/dnfr5p8jc/image/upload/v1648212075/6_prop_nqtlei.png",
       "price": "Rs. 1,000,000",
-      "comments": "Would love to visit the house this Saturday, can I ?",
-      "user": "Raju",
-      "reply": "Sorry, we are closed on Saturday"
+      "comments": [
+        {
+          "comment": "Would love to visit the house this Saturday, can I ?",
+          "user": "Raju",
+          "reply": "Sorry, we are closed on Saturday"
+        },
+        {
+          "comment": "Would love to visit the house this Saturday, can I ?",
+          "user": "Raju",
+          "reply": "Sorry, we are closed on Saturday"
+        },
+        {
+          "comment": "Would love to visit the house this Saturday, can I ?",
+          "user": "Raju",
+          "reply": "Sorry, we are closed on Saturday"
+        },
+        {
+          "comment": "Would love to visit the house this Saturday, can I ?",
+          "user": "Raju",
+          "reply": "Sorry, we are closed on Saturday"
+        }
+      ]
     },
     {
       "id": "7",
@@ -66,9 +180,28 @@
       "description": "Baluwatar, Kathmandu, Nepal",
       "image": "https://res.cloudinary.com/dnfr5p8jc/image/upload/v1648212075/7_prop_qw3doq.png",
       "price": "Rs. 1,000,000",
-      "comments": "Would love to visit the house this Saturday, can I ?",
-      "user": "Raju",
-      "reply": "Sorry, we are closed on Saturday"
+      "comments": [
+        {
+          "comment": "Would love to visit the house this Saturday, can I ?",
+          "user": "Raju",
+          "reply": "Sorry, we are closed on Saturday"
+        },
+        {
+          "comment": "Would love to visit the house this Saturday, can I ?",
+          "user": "Raju",
+          "reply": "Sorry, we are closed on Saturday"
+        },
+        {
+          "comment": "Would love to visit the house this Saturday, can I ?",
+          "user": "Raju",
+          "reply": "Sorry, we are closed on Saturday"
+        },
+        {
+          "comment": "Would love to visit the house this Saturday, can I ?",
+          "user": "Raju",
+          "reply": "Sorry, we are closed on Saturday"
+        }
+      ]
     },
     {
       "id": "8",
@@ -76,9 +209,28 @@
       "description": "Baluwatar, Kathmandu, Nepal",
       "image": "https://res.cloudinary.com/dnfr5p8jc/image/upload/v1648212077/8_prop_izcljk.png",
       "price": "Rs. 1,000,000",
-      "comments": "Would love to visit the house this Saturday, can I ?",
-      "user": "Raju",
-      "reply": "Sorry, we are closed on Saturday"
+      "comments": [
+        {
+          "comment": "Would love to visit the house this Saturday, can I ?",
+          "user": "Raju",
+          "reply": "Sorry, we are closed on Saturday"
+        },
+        {
+          "comment": "Would love to visit the house this Saturday, can I ?",
+          "user": "Raju",
+          "reply": "Sorry, we are closed on Saturday"
+        },
+        {
+          "comment": "Would love to visit the house this Saturday, can I ?",
+          "user": "Raju",
+          "reply": "Sorry, we are closed on Saturday"
+        },
+        {
+          "comment": "Would love to visit the house this Saturday, can I ?",
+          "user": "Raju",
+          "reply": "Sorry, we are closed on Saturday"
+        }
+      ]
     },
     {
       "id": "9",
@@ -86,9 +238,28 @@
       "description": "Baluwatar, Kathmandu, Nepal",
       "image": "https://res.cloudinary.com/dnfr5p8jc/image/upload/v1648212076/9_prop_gizllw.png",
       "price": "Rs. 1,000,000",
-      "comments": "Would love to visit the house this Saturday, can I ?",
-      "user": "Raju",
-      "reply": "Sorry, we are closed on Saturday"
+      "comments": [
+        {
+          "comment": "Would love to visit the house this Saturday, can I ?",
+          "user": "Raju",
+          "reply": "Sorry, we are closed on Saturday"
+        },
+        {
+          "comment": "Would love to visit the house this Saturday, can I ?",
+          "user": "Raju",
+          "reply": "Sorry, we are closed on Saturday"
+        },
+        {
+          "comment": "Would love to visit the house this Saturday, can I ?",
+          "user": "Raju",
+          "reply": "Sorry, we are closed on Saturday"
+        },
+        {
+          "comment": "Would love to visit the house this Saturday, can I ?",
+          "user": "Raju",
+          "reply": "Sorry, we are closed on Saturday"
+        }
+      ]
     },
     {
       "id": "10",
@@ -96,9 +267,28 @@
       "description": "Baluwatar, Kathmandu, Nepal",
       "image": "https://res.cloudinary.com/dnfr5p8jc/image/upload/v1648212075/10_prop_b1snwb.png",
       "price": "Rs. 1,000,000",
-      "comments": "Would love to visit the house this Saturday, can I ?",
-      "user": "Raju",
-      "reply": "Sorry, we are closed on Saturday"
+      "comments": [
+        {
+          "comment": "Would love to visit the house this Saturday, can I ?",
+          "user": "Raju",
+          "reply": "Sorry, we are closed on Saturday"
+        },
+        {
+          "comment": "Would love to visit the house this Saturday, can I ?",
+          "user": "Raju",
+          "reply": "Sorry, we are closed on Saturday"
+        },
+        {
+          "comment": "Would love to visit the house this Saturday, can I ?",
+          "user": "Raju",
+          "reply": "Sorry, we are closed on Saturday"
+        },
+        {
+          "comment": "Would love to visit the house this Saturday, can I ?",
+          "user": "Raju",
+          "reply": "Sorry, we are closed on Saturday"
+        }
+      ]
     },
     {
       "id": "11",
@@ -106,9 +296,28 @@
       "description": "Baluwatar, Kathmandu, Nepal",
       "image": "https://res.cloudinary.com/dnfr5p8jc/image/upload/v1648212076/11_prop_dprnro.png",
       "price": "Rs. 1,000,000",
-      "comments": "Would love to visit the house this Saturday, can I ?",
-      "user": "Raju",
-      "reply": "Sorry, we are closed on Saturday"
+      "comments": [
+        {
+          "comment": "Would love to visit the house this Saturday, can I ?",
+          "user": "Raju",
+          "reply": "Sorry, we are closed on Saturday"
+        },
+        {
+          "comment": "Would love to visit the house this Saturday, can I ?",
+          "user": "Raju",
+          "reply": "Sorry, we are closed on Saturday"
+        },
+        {
+          "comment": "Would love to visit the house this Saturday, can I ?",
+          "user": "Raju",
+          "reply": "Sorry, we are closed on Saturday"
+        },
+        {
+          "comment": "Would love to visit the house this Saturday, can I ?",
+          "user": "Raju",
+          "reply": "Sorry, we are closed on Saturday"
+        }
+      ]
     },
     {
       "id": "12",
@@ -116,9 +325,28 @@
       "description": "Baluwatar, Kathmandu, Nepal",
       "image": "https://res.cloudinary.com/dnfr5p8jc/image/upload/v1648212077/12_prop_h3vmax.png",
       "price": "Rs. 1,000,000",
-      "comments": "Would love to visit the house this Saturday, can I ?",
-      "user": "Raju",
-      "reply": "Sorry, we are closed on Saturday"
+      "comments": [
+        {
+          "comment": "Would love to visit the house this Saturday, can I ?",
+          "user": "Raju",
+          "reply": "Sorry, we are closed on Saturday"
+        },
+        {
+          "comment": "Would love to visit the house this Saturday, can I ?",
+          "user": "Raju",
+          "reply": "Sorry, we are closed on Saturday"
+        },
+        {
+          "comment": "Would love to visit the house this Saturday, can I ?",
+          "user": "Raju",
+          "reply": "Sorry, we are closed on Saturday"
+        },
+        {
+          "comment": "Would love to visit the house this Saturday, can I ?",
+          "user": "Raju",
+          "reply": "Sorry, we are closed on Saturday"
+        }
+      ]
     }
   ],
   "rentContent": [

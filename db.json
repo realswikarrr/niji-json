@@ -168,7 +168,8 @@
       "reply": "Sorry, we are closed on Saturday",
       "beds": "8",
       "showers": "9",
-      "parking": "7,505"
+      "space": "7,505",
+      "price": "1000"
     },
     {
       "id": "2",
@@ -180,7 +181,8 @@
       "reply": "Sorry, we are closed on Saturday",
       "beds": "5",
       "showers": "6",
-      "parking": "3,505"
+      "space": "3,505",
+      "price": "2000"
     },
     {
       "id": "3",
@@ -192,7 +194,8 @@
       "reply": "Sorry, we are closed on Saturday",
       "beds": "1",
       "showers": "8",
-      "parking": "5,505"
+      "space": "5,505",
+      "price": "3000"
     },
     {
       "id": "4",
@@ -204,7 +207,8 @@
       "reply": "Sorry, we are closed on Saturday",
       "beds": "6",
       "showers": "2",
-      "parking": "2,505"
+      "space": "2,505",
+      "price": "4000"
     },
     {
       "id": "5",
@@ -216,7 +220,8 @@
       "reply": "Sorry, we are closed on Saturday",
       "beds": "3",
       "showers": "4",
-      "parking": "1,505"
+      "space": "1,505",
+      "price": "5000"
     }
   ]
 }
